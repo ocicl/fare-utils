@@ -1,0 +1,11 @@
+* fare-utils
+
+fare-utils is a package full of miscellaneous Common Lisp code:
+macros, functions, classes, offering a variety of classic utilities
+and datastructures, plus management of package.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/fare/fare-utils.git |
+| commit  | 2f9c48a                                    |
+| systems | fare-utils                                 |
+|---------+--------------------------------------------|
